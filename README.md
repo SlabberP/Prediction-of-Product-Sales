@@ -13,7 +13,8 @@ The goal of this is to help the retailer understand the properties of products a
 ### Data:
 Data Source: https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/
 
-### Data Dictionary - The data consists of data regarding the products itself as well as the stores.
+### Data Dictionary
+The data consists of data regarding the products itself as well as the stores.
 ![alt text](https://github.com/SlabberP/Prediction-of-Product-Sales/blob/main/Data%20Dictionary.GIF)
 
 ## Methods
