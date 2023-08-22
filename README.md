@@ -1,7 +1,9 @@
-# sales prediction for food items sold at various retail store outlets
-## Subtitle describing the analysis 
+# Sales prediction for food items sold at various retail store outlets
+## Food Item sales and the features that impact the sales.
 
-**Author**: 
+**Author**: Pieter Slabber
+
+![alt text]
 
 ### Business problem:
 
