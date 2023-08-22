@@ -16,10 +16,22 @@ Data Source: https://datahack.analyticsvidhya.com/contest/practice-problem-big-m
 ### Data Dictionary
 The data consists of columns containing information regarding different products and stores.
 ![alt text](https://github.com/SlabberP/Prediction-of-Product-Sales/blob/main/Data%20Dictionary.GIF)
+The dataframe was found to have 8523 rows and 12 columns
 
 ## Methods
-- Data preparation steps with explanation and justification for choices
-- 
+- Data preparation steps:
+  The Data was cleaned using the normal removal op the duplicate values where the duplicates were removed.
+  It was then checked for inconsistencies. The inconsistencies were fixed.
+  The "Item_Outlet_Sales" column or feature was then identified as the target or dependent column.
+  
+ with explanation and justification for choices
+- Regression Metric Selection: Linear regression
+
+Used to predict or explain the relationship between a dependent variable and one or more independent variables.It assumes a linear connection between these variables, represented by a straight line
+
+Regression Metric Selection: Random Forest with GridSearchCV
+
+Random Forest with GridSearchCV is a powerful combination of machine learning techniques used for building predictive models. Random Forest is an ensemble algorithm that combines multiple decision trees to make accurate predictions. GridSearchCV is a method for systematically tuning hyperparameters to find the best configuration for a model
 
 ## Results
 
