@@ -11,7 +11,8 @@ The goal of this is to help the retailer understand the properties of products a
 
 
 ### Data:
-Data can include source and high-level description (e.g. # obs)
+Data Sorce: https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/
+
 
 
 ## Methods
