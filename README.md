@@ -3,7 +3,7 @@
 
 **Author**: Pieter Slabber
 
-![alt text]
+![alt text](https://github.com/SlabberP/Prediction-of-Product-Sales/blob/main/data-scientist.jpg)
 
 ### Business problem:
 
