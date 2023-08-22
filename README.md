@@ -1,11 +1,11 @@
-# Title that recommends an action
+# sales prediction for food items sold at various retail store outlets
 ## Subtitle describing the analysis 
 
 **Author**: 
 
 ### Business problem:
 
-Here is where you state the business problem you were trying to solve
+The goal of this is to help the retailer understand the properties of products and outlets that play crucial roles in increasing sales.
 
 
 ### Data:
