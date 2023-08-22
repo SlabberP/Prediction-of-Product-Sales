@@ -13,7 +13,8 @@ The goal of this is to help the retailer understand the properties of products a
 ### Data:
 Data Sorce: https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/
 
-![alt text]
+### Data Dictionary
+![alt text](https://github.com/SlabberP/Prediction-of-Product-Sales/blob/main/Data%20Dictionary.GIF)
 
 ## Methods
 - Data preparation steps with explanation and justification for choices
