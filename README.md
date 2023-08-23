@@ -20,7 +20,7 @@ The dataframe was found to have 8523 rows and 12 columns
 
 ## Methods
 - Data preparation steps:
-  - The Data was cleaned using the normal removal op the duplicate values where the duplicates were removed.
+  - The data was cleaned using the normal removal of the duplicate values.
   - It was then checked for inconsistencies. The inconsistencies were fixed.
   - The "Item_Outlet_Sales" column or feature was then identified as the target or dependent column.
   
