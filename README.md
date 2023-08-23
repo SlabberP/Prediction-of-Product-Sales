@@ -16,6 +16,7 @@ Data Source: https://datahack.analyticsvidhya.com/contest/practice-problem-big-m
 ### Data Dictionary
 The data consists of columns containing information regarding different products and stores.
 ![alt text](https://github.com/SlabberP/Prediction-of-Product-Sales/blob/main/Data%20Dictionary.GIF)
+
 The dataframe was found to have 8523 rows and 12 columns
 
 ## Methods
