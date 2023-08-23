@@ -31,12 +31,12 @@ The dataframe was found to have 8523 rows and 12 columns
      - Fit the preprocessor to the traing data only
      - Transform the training and test data
   
-  Instantiate the Model:
-  - The model was based on the dependency and dpendent feature which is a regression target.
-    Instantiate the Linear regression model:
-    - Fit the model to the training data only.
-    - Train the Model on the training data.
-    - 
+  - Machine Learning:
+    - The model was based on the dependency and dpendent feature which is a regression target.
+     - Instantiate the Linear regression model:
+     - Fit the model to the training data only.
+     - Train the Model on the training data.
+     - 
  with explanation and justification for choices
 - Regression Metric Selection: Linear regression
 
