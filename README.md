@@ -27,7 +27,10 @@ The dataframe was found to have 8523 rows and 12 columns
   - Check the data for null values or missing values. Imputing these values only happens after the train/test split.
   - Split the train and test data.
   - Preprossing:
-     - 
+     - Creating pipelines for encoding and scaling of Categorical, Ordinal and numeric features.
+     - Fit the preprocessor to the traing data only
+     - Transform the training and test data
+  
   
  with explanation and justification for choices
 - Regression Metric Selection: Linear regression
