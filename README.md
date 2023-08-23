@@ -60,6 +60,12 @@ Random Forest with GridSearchCV is a powerful combination of machine learning te
 
 ## Model
 
+  Instantiate the Model:
+  - The model was based on the dependency and dpendent feature which is a regression target.
+    Instantiate the Linear regression model:
+    - Fit the model to the training data only.
+    - Train the Model on the training data.
+ 
 Describe your final model
 
 Report the most important metrics
