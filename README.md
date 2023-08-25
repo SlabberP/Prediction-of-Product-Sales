@@ -62,7 +62,7 @@ One can see that the 3 highest count of Item_types kept in the stores are:
 #### Heatmap
 ![alt text](https://github.com/SlabberP/Prediction-of-Product-Sales/blob/main/Heatmap.png)
 
-> Sentence about visualization.
+From the heatmap one can see that there is a high correlation between Item_Outlet_Sales and Item_MRP features.
 
 ## Model
 
