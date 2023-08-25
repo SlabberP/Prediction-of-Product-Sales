@@ -32,7 +32,7 @@ The dataframe was found to have 8523 rows and 12 columns
      - Transform the training and test data
   
 - Machine Learning:
-  - The model was based on the dependency and dpendent feature which is a regression target.
+  - The model was based on the independant and dependent features which is a regression target.
   - Instantiate the Models:
   - Fit the model to the training data only
   - Train the Model on the training data
@@ -56,16 +56,36 @@ From the heatmap one can see that there is a high correlation between Item_Outle
 
 ## Models evaluated and results: 
 
-  Instantiate the Model:
-  - The model was based on the dependency and dpendent feature which is a regression target.
-    Instantiate the Linear regression model:
-    - Fit the model to the training data only.
-    - Train the Model on the training data.
- 
-Describe your final model
+- Linear Regression Model
+  Training R-squared: 0.6715387235708582
+  Test R-squared: -4.948580222595302e+18
+  The model might be overfitting because it makes good predictions on the training data but not on the test data.
+  
+- Random Forest Model
+  Training Data:
+  - MAE = 297.065
+  - MSE = 184,186.360
+  - RMSE = 429.169
+  - R^2 = 0.938
+  Test Data:
+  - MAE = 773.962
+  - MSE = 1,241,180.546
+  - RMSE = 1,114.083
+  - R^2 = 0.550
+  The model might be overfitting as well because it makes good predictions on the training data but not on the test data.
 
-Report the most important metrics
-
+- Randomed Forest Model Hypertuned with GridSearchCV
+  Training Data:
+  - MAE = 665.766
+  - MSE = 899,797.137
+  - RMSE = 948.576
+  - R^2 = 0.696 
+  Test Data:
+  - MAE = 732.864
+  - MSE = 1,114,327.909
+  - RMSE = 1,055.617
+  - R^2 = 0.596
+    
 Refer to the metrics to describe how well the model would solve the business problem
 
 ## Recommendations:
