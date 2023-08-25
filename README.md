@@ -52,7 +52,7 @@ Random Forest with GridSearchCV is a powerful combination of machine learning te
 
 
 #### Visual 1 Title
-![sample image](project1_sample_image.png)
+![alt text]
 
 > Sentence about visualization.
 
