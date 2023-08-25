@@ -41,7 +41,7 @@ The dataframe was found to have 8523 rows and 12 columns
   - Evaluate the model performance using metrics
     
 ## Visuals:     
-#### Countplot
+### Countplot
 ![alt text](https://github.com/SlabberP/Prediction-of-Product-Sales/blob/main/CountPlot.png)
 
 One can see that the 3 highest count of Item_types kept in the stores are:
@@ -49,7 +49,7 @@ One can see that the 3 highest count of Item_types kept in the stores are:
 - Snack Food and
 - Household items
 
-#### Heatmap
+### Heatmap
 ![alt text](https://github.com/SlabberP/Prediction-of-Product-Sales/blob/main/Heatmap.png)
 
 From the heatmap one can see that there is a high correlation between Item_Outlet_Sales and Item_MRP features.
