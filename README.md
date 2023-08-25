@@ -39,8 +39,8 @@ The dataframe was found to have 8523 rows and 12 columns
   - Test the Model
   - Tune the Model and test again
   - Evaluate the model performance using metrics
-       
-
+    
+## Visuals:     
 #### Countplot
 ![alt text](https://github.com/SlabberP/Prediction-of-Product-Sales/blob/main/CountPlot.png)
 
