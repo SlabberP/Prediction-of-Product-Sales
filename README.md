@@ -54,7 +54,7 @@ Random Forest with GridSearchCV is a powerful combination of machine learning te
 #### Countplot
 ![alt text](https://github.com/SlabberP/Prediction-of-Product-Sales/blob/main/CountPlot.png)
 
-> Sentence about visualization.
+One can see that the 3 most items kept in the stores are 
 
 #### Heatmap
 ![alt text](https://github.com/SlabberP/Prediction-of-Product-Sales/blob/main/Heatmap.png)
