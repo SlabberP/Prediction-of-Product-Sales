@@ -52,11 +52,12 @@ Random Forest with GridSearchCV is a powerful combination of machine learning te
 
 
 #### Visual 1 Title
-![alt text]
+![alt text](https://github.com/SlabberP/Prediction-of-Product-Sales/blob/main/CountPlot.png)
 
 > Sentence about visualization.
 
 #### Visual 2 Title
+![alt text](https://github.com/SlabberP/Prediction-of-Product-Sales/blob/main/Heatmap.png)
 
 ## Model
 
