@@ -54,7 +54,10 @@ Random Forest with GridSearchCV is a powerful combination of machine learning te
 #### Countplot
 ![alt text](https://github.com/SlabberP/Prediction-of-Product-Sales/blob/main/CountPlot.png)
 
-One can see that the 3 most items kept in the stores are 
+One can see that the 3 highest count of Item_types kept in the stores are:
+Fruits and Vegetables,
+Snack Food and
+Household items
 
 #### Heatmap
 ![alt text](https://github.com/SlabberP/Prediction-of-Product-Sales/blob/main/Heatmap.png)
