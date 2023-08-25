@@ -76,7 +76,7 @@ From the heatmap one can see that there is a high correlation between Item_Outle
   - R^2 = 0.550
   The model might be overfitting as well because it makes good predictions on the training data but not on the test data.
 
-- Randomed Forest Model Hypertuned with GridSearchCV
+- Random Forest Model Hypertuned with GridSearchCV
 
   Training Data:
   - MAE = 665.766
@@ -90,19 +90,18 @@ From the heatmap one can see that there is a high correlation between Item_Outle
   - RMSE = 1,055.617
   - R^2 = 0.596
     
-Refer to the metrics to describe how well the model would solve the business problem
+The final Random Forest regression model shows favorable performance metrics on both training and test data. 
+Its ability to minimize errors, provide accurate price predictions, and explain a substantial portion of price variability makes it a valuable tool for solving the business problem of predicting product prices. 
 
 ## Recommendations:
 
-More of your own text here
+The recommendation will be to use the Random Forest Model because it gave the best results, however 
+by further tuning the Randon Forest Model one should be able to get even better results.
 
+Overfitting can be reduced by decreasing the complexity of the model. 
 
-## Limitations & Next Steps
-
-More of your own text here
-
+Adding more data to the training set should also reduce overfitting.
 
 ### For further information
 
-
-For any additional questions, please contact **email**
+For any additional questions, please contact **pieter.slabber@mmltd.co.za**
