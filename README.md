@@ -26,18 +26,18 @@ The dataframe was found to have 8523 rows and 12 columns
   - The "Item_Outlet_Sales" column or feature was then identified as the target or dependent column.
   - Check the data for null values or missing values. Imputing these values only happens after the train/test split.
   - Split the train and test data.
-  - Preprossing:
+  - Preprocessing:
      - Creating pipelines for encoding and scaling of Categorical, Ordinal and numeric features.
      - Fit the preprocessor to the traing data only
      - Transform the training and test data
   
-  - Machine Learning:
-    - The model was based on the dependency and dpendent feature which is a regression target.
-     - Instantiate the Models:
-     - Fit the model to the training data only
-     - Train the Model on the training data
-     - Test the Model
-     - Evaluate the model performance using metrics
+- Machine Learning:
+  - The model was based on the dependency and dpendent feature which is a regression target.
+  - Instantiate the Models:
+  - Fit the model to the training data only
+  - Train the Model on the training data
+  - Test the Model
+  - Evaluate the model performance using metrics
        
  with explanation and justification for choices
 - Regression Metric Selection: Linear regression
