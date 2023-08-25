@@ -62,11 +62,13 @@ From the heatmap one can see that there is a high correlation between Item_Outle
   The model might be overfitting because it makes good predictions on the training data but not on the test data.
   
 - Random Forest Model
+
   Training Data:
   - MAE = 297.065
   - MSE = 184,186.360
   - RMSE = 429.169
   - R^2 = 0.938
+  
   Test Data:
   - MAE = 773.962
   - MSE = 1,241,180.546
@@ -75,11 +77,13 @@ From the heatmap one can see that there is a high correlation between Item_Outle
   The model might be overfitting as well because it makes good predictions on the training data but not on the test data.
 
 - Randomed Forest Model Hypertuned with GridSearchCV
+
   Training Data:
   - MAE = 665.766
   - MSE = 899,797.137
   - RMSE = 948.576
   - R^2 = 0.696 
+  
   Test Data:
   - MAE = 732.864
   - MSE = 1,114,327.909
