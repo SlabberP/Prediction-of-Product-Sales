@@ -51,13 +51,15 @@ Random Forest with GridSearchCV is a powerful combination of machine learning te
 ### Here are examples of how to embed images from your sub-folder
 
 
-#### Visual 1 Title
+#### Countplot
 ![alt text](https://github.com/SlabberP/Prediction-of-Product-Sales/blob/main/CountPlot.png)
 
 > Sentence about visualization.
 
-#### Visual 2 Title
+#### Heatmap
 ![alt text](https://github.com/SlabberP/Prediction-of-Product-Sales/blob/main/Heatmap.png)
+
+> Sentence about visualization.
 
 ## Model
 
